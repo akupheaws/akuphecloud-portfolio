@@ -10,7 +10,7 @@ const AboutSection = () => {
             <h2 className="text-accent text-4xl font-bold mb-8">About Me</h2>
             <div className="text-neutral space-y-4">
               <p>
-                I'm a passionate and skilled DevOps, DevSecOps, SRE, and Cloud Engineer with a solid foundation in infrastructure provisioning, automation, and system monitoring. I hold multiple certifications in AWS, Kubernetes, Terraform, and Linux.
+                I'm a passionate and skilled DevOps, DevSecOps, SRE, and Cloud Engineer with a solid foundation in infrastructure provisioning, automation, and system monitoring. I hold multiple certifications in AWS, Azure, Kubernetes, Terraform, and Linux.
               </p>
               <p>
                 With hands-on experience using tools like Jenkins, Terraform, and Ansible, I've streamlined CI/CD workflows and automated deployments for faster, more reliable software delivery. I specialize in managing and monitoring scalable cloud environments on AWS and maintaining high availability across Kubernetes clusters.
