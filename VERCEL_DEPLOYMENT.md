@@ -8,7 +8,7 @@
 
 ### 1. Authentication
 ```bash
-# Login to Vercel
+# Login to Vercels
 npx vercel login
 ```
 
