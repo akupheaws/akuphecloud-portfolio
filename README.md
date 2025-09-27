@@ -219,4 +219,4 @@ For issues, questions, or suggestions:
 
 ---
 
-Built with ❤️ using Next.js, MongoDB, and Vercel
+Built with ❤️ using Next.js and MongoDB @ Akuphe Dieudonne
