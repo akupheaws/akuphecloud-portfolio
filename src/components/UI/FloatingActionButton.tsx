@@ -16,7 +16,7 @@ const FloatingActionButton = () => {
 
       {/* Buy Me a Coffee Button */}
       <a
-        href="https://coff.ee/akuphe"
+        href="https://coff.ee/akupheawsp"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center gap-2 bg-[#FFDD00] text-gray-900 px-4 py-2 rounded-full shadow-lg hover:bg-[#FFED4E] transition-all duration-300 transform hover:scale-105"
