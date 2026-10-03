@@ -23,9 +23,9 @@ const ContactSection = () => {
             <MsgIcon /> akupheaws@gmail.com
           </a>
           <a
-            href="tel:+13125384809"
+            href="tel:+18728297706"
             className="text-neutral hover:text-accent flex items-center gap-1 font-light transition-colors duration-300">
-            <PhoneIcon /> +1 312 538 4809
+            <PhoneIcon /> +1 872 829 7706
           </a>
           <p className="text-neutral flex items-center gap-1 font-light">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
